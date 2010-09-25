@@ -10,6 +10,7 @@ the Fall 2010 UMBC Computer Science course "CMSC 491 — iOS App
 Development" being taught by [Dan Hood](http://userpages.umbc.edu/~dhood2/).
 
 For more information check out the following UMBC related links:
+
  * [UMBC Homepage](http://www.umbc.edu/)
  * [Department of Computer Science and Electrical Engineering](http://www.csee.umbc.edu/)
  * [Games, Animation and Interactive Media](http://gaim.umbc.edu/)
