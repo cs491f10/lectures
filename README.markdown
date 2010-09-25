@@ -13,7 +13,7 @@ For more information check out the following UMBC related links:
 
  * [UMBC Homepage](http://www.umbc.edu/)
  * [Department of Computer Science and Electrical Engineering](http://www.csee.umbc.edu/)
- * [Games, Animation and Interactive Media](http://gaim.umbc.edu/)
+ * [Games, Animation and Interactive Media](http://umbcgaim.wordpress.com/)
  * [Computer Science Game Development Track](http://gaim.umbc.edu/cmsc/)
 
 License
